@@ -24,6 +24,8 @@ output:
 
 YOUR ANSWER HERE. YOU CAN DELETE THE REMAINDER OF THIS FILE IF YOU WANT TO.
 
+I have no past experience with git. I learnt how to create a branch, commit a file, open and merge my pull request; use git bash to create SSH, copy other people's directory; and use command line to change file and push it to github.
+
 --------------
 
 --------------
